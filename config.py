@@ -10,9 +10,9 @@ KEY = "928635e70a014b41bfd38a66cf6a1939"
 # SMTP
 # SMTP_USE_TLS = True  # will automatically detect port 587
 # SMTP_USE_TLS = True  # will automatically detect port 465
-SMTP_SERVER = ''
-SMTP_USERNAME = ''
-SMTP_PASSWORD = ''
+SMTP_SERVER = 'smtp.gmail.com'
+SMTP_USERNAME = 'utsavpokemon9000chatterjee@gmail.com'
+SMTP_PASSWORD = 'nzlettvkyviafplp'
 SMTP_USE_TLS = True
 SMTP_USE_SSL = False
 
